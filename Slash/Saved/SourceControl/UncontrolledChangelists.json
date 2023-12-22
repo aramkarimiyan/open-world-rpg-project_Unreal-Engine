@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/SlashOpenWold_HLODLayer_Instanced.uasset",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/SlashOpenWold_HLODLayer_Merged.uasset",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/__ExternalActors__/SlashOpenWold/8/0B/C47J4NCSGF38WJ8463951E.uasset",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/__ExternalActors__/SlashOpenWold/2/ZT/M8CTV8POBHIWXLXO6RWJW8.uasset",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/SlashOpenWold.umap",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/__ExternalActors__/SlashOpenWold/1/EL/GMRHCZQDUOTRD38OPORSM8.uasset",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/__ExternalActors__/SlashOpenWold/8/MW/QZV6J1JOXVBTRUQS0HJDJB.uasset",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/__ExternalActors__/SlashOpenWold/C/YE/ZI8O4KYNETIEJS9HJ528CF.uasset",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/__ExternalActors__/SlashOpenWold/0/V8/DXYITRU2Z0UVVS7ZSSU6IG.uasset",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/__ExternalActors__/SlashOpenWold/8/IN/ZQP4DZH3HDFAW32Q2QJ7NY.uasset",
+				"C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Content/__ExternalActors__/SlashOpenWold/6/UP/9EL06OICHR67RL9ET7BC4X.uasset"
 			]
 		}
 	]
