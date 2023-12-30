@@ -1,0 +1,6 @@
+2023/12/30-15:24:21.567 2d40 Creating DB C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/12/30-15:24:21.583 2d40 Reusing MANIFEST C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/30-15:25:21.467 2768 Level-0 table #5: started
+2023/12/30-15:25:21.484 2768 Level-0 table #5: 1167 bytes OK
+2023/12/30-15:25:21.486 2768 Delete type=0 #3
+2023/12/30-15:25:21.486 2768 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

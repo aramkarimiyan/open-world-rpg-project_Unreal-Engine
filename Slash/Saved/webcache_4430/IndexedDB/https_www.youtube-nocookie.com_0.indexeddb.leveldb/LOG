@@ -1,0 +1,15 @@
+2023/12/30-15:25:30.906 1ee8 Reusing MANIFEST C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/30-15:25:30.906 1ee8 Recovering log #4
+2023/12/30-15:25:30.906 1ee8 Reusing old log C:/Users/aram/Documents/Unreal_Engine_Projects/open-world-rpg-project_Unreal-Engine/Slash/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/12/30-15:54:03.965 1a1c Level-0 table #8: started
+2023/12/30-15:54:03.974 1a1c Level-0 table #8: 190 bytes OK
+2023/12/30-15:54:03.976 1a1c Delete type=0 #4
+2023/12/30-15:54:03.977 1a1c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/30-15:54:03.977 1a1c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2023/12/30-15:54:03.977 1a1c Compacting 1@1 + 1@2 files
+2023/12/30-15:54:03.987 1a1c Generated table #9@1: 18 keys, 534 bytes
+2023/12/30-15:54:03.987 1a1c Compacted 1@1 + 1@2 files => 534 bytes
+2023/12/30-15:54:03.989 1a1c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/30-15:54:03.989 1a1c Delete type=2 #5
+2023/12/30-15:54:03.989 1a1c Delete type=2 #8
+2023/12/30-15:54:03.989 1a1c Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)
